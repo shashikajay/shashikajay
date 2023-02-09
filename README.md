@@ -1,4 +1,4 @@
-# Hi there 👋
+# Hi Peeps 👋
 
 ## Im Shashika, Discord server designer and programmer.
 
