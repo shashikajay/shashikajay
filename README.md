@@ -1,6 +1,6 @@
 # Hi there 👋
 
-## Im Shashika.
+## Im Shashika, Discord server designer and programmer.
 
 - 🔭 I’m currently working on -  Fiverr
 - 🌱 I’m currently learning -  Institute of Java & Software Engineering
