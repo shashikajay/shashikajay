@@ -1,5 +1,5 @@
 <h1 align="center">Hey there Peeps 👋, Im Shashika Jayawardena</h1>
-<h3 align="center">Discord server designer and programmer.</h3>
+<h3 align="center">Discord Server Designer & Programmer.</h3>
 
 
 - 🔭 I’m currently working on [Fiverr](https://www.fiverr.com/shashikajay?public_mode=true)
