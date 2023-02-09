@@ -15,3 +15,7 @@
   </a>
 </p>
 </p>
+<p align="center"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/shashikajay/count.svg" />
+</p>
