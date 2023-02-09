@@ -1,12 +1,8 @@
-### Hi there 👋
+# Hi there 👋
 
-<!--
-**shashikajay/shashikajay** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Im Shashika.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on Fiverr
-- 🌱 I’m currently learning IJSE
-- 💬 Ask me about ...
-- 📫 How to reach me: LinkedIn(https://www.linkedin.com/in/shashikajay/)
+- 🔭 I’m currently working on -  Fiverr
+- 🌱 I’m currently learning -  Institute of Java & Software Engineering
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/shashikajay/),  [Facebook](fb.com/shashika.jayzzz), [Fiverr](https://www.fiverr.com/shashikajay?public_mode=true)
 - 😄 Pronouns: He/Him
