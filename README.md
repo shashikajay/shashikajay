@@ -23,10 +23,6 @@
 <br/>
 <br/>
 <br/>
-<br/>
-<br/>
-<br/>
-<br/>
 
 ## Social Media
 <p align="left">
