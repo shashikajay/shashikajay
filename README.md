@@ -13,6 +13,10 @@
 <a href="https://github.com/shashikajay">
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shashikajay&theme=tokyonight" />
   </a>
+  
+  <p align="left">
+<a href="https://twitter.com/shashikajay" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="shashikajay" height="30" width="40" /></a>
+</p>
 <br/>
 <br/>
 <br/>
