@@ -17,6 +17,7 @@
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shashikajay&theme=tokyonight" />
   </a>
   <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shashikajay&show_icons=true&locale=en&theme=tokyonight" alt="shashikajay" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shashikajay&" alt="shashikajay" /></p>
 <br/>
 <br/>
 <br/>
