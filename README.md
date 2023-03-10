@@ -20,7 +20,7 @@
   </a>
   <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shashikajay&show_icons=true&locale=en&theme=tokyonight" alt="shashikajay" /></p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shashikajay&theme=tokyonight" alt="shashikajay" /></p>
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shashikajay" alt="shashikajay" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shashikajay&theme=tokyonight" alt="shashikajay" /></a> </p>
 <br/>
 <br/>
 
