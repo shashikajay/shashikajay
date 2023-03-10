@@ -20,9 +20,6 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shashikajay&theme=tokyonight" alt="shashikajay" /></p>
 <br/>
 <br/>
-<br/>
-<br/>
-<br/>
 
 ## Social Media
 <p align="left">
